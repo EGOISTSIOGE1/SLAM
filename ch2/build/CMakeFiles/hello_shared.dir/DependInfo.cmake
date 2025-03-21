@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/taojy/repo/slam/ch2/libHelloSLAM.cpp" "CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o" "gcc" "CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o.d"
+  "/home/taojy/repo/SLAM/ch2/libHelloSLAM.cpp" "CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o" "gcc" "CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o.d"
   )
 
 # Targets to which this target links.
